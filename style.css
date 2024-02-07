@@ -1,0 +1,8 @@
+.form-group {
+    background-color: rgba(229, 255, 0, 0.175);
+    border-radius: 10px;
+}
+
+.form-control {
+    background-image: linear-gradient(to right,rgb(255, 242, 127),#00ff4c) ;
+}
